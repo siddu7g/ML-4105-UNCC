@@ -1,1 +1,1 @@
-Projects on Machine Learning using PyTorch, TensorFlow, and Scikit-learn.
+A collection of hands-on ML projects demonstrating model training and evaluation using linear regression, logistic regression, and classification algorithms. Implemented across PyTorch, TensorFlow, and Scikit-learn frameworks
