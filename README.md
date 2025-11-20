@@ -1,1 +1,1 @@
-A collection of hands-on ML projects demonstrating model training and evaluation using linear regression, logistic regression, and classification algorithms. Implemented across PyTorch, TensorFlow, and Scikit-learn frameworks
+A collection of hands-on ML projects demonstrating model training and evaluation using linear, logistic regression, classification, and Fully-Connected Neural Network algorithms. Implemented across PyTorch, TensorFlow, and Scikit-learn frameworks
